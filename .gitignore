@@ -1,0 +1,5 @@
+.venv/
+.pytest_cache/
+.uv-cache/
+.DS_Store
+.workbook/
